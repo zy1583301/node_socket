@@ -1,0 +1,387 @@
+<!-- <!DOCTYPE html> -->
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=2.0">
+  <title>Document</title>
+  <style>
+    *{
+      margin:0;
+      padding: 0;
+    }
+    #login{
+      width:100%;
+      height:100%;
+      background: url('https://dss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=11232128,2567744034&fm=26&gp=0.jpg') no-repeat;
+      background-size: cover;
+      position: relative;
+    }
+    .form-content{
+      width: 50%;
+      height:50%;
+      position: absolute;
+      margin:auto;
+      left:0;
+      right:0;
+      bottom: 0;
+      top:0;
+      /* display: flex;
+      flex-direction: column; */
+    }
+    .form-content input,input {
+      width:50%;
+      height:30px;
+      outline:none;
+    }
+    label{
+      width:50px;
+      color: hotpink;
+      display: inline-block;
+    }
+    .form-content div{
+      margin-top: 20px;
+    }
+    .form-content div span{
+      color:red
+    }
+    #login-btn {
+      width: 25%;
+      height:40px;
+     margin-left: 50px;
+     font-size: 24px;
+     background-color: hotpink;
+     color:white
+    }
+    #login-btn1 {
+      width: 25%;
+      height:40px;
+     margin-left: 10px;
+     font-size: 24px;
+     background-color: hotpink;
+     color:white
+    }
+  </style>
+  <style>
+    #chat-content{
+      width: 100%;
+      height:100%;
+      background: url('./imagr.jpg');
+      /* background-image: url('http://img1.imgtn.bdimg.com/it/u=2699549301,671412022&fm=26&gp=0.jpg'); */
+      background-size: cover;
+      
+    }
+    .chat-content{
+      display: none;
+    }
+    #chat-content .left{
+      height:400px;
+      width:200px;
+    }
+    #chat-content .right{
+      height:400px;
+      width:400px;
+      border: 1px solid red;
+      position: relative;
+    }
+    .right h2{
+      /* position: absolute;
+      top:0;
+      left:0; */
+      z-index: 1000;
+      height:40px;
+    }
+    #chat-content .right .message-content{
+      height:300px;
+      width:100%;
+      /* margin-top:40px; */
+      /* overflow: hidden; */
+      position: relative;
+      overflow-y: auto;
+    }
+    #chat-content .right .message-content .message-scroll {
+      min-height:300px;
+      width:100%;
+      /* position:absolute;
+      top:0;
+      left:0; */
+      background-color: white;
+      transition: all 0.2ms linear;
+      position: relative;
+     
+    }
+    #chat-content .right .message-content .message-scroll .user-left{
+      width: 100%;
+      display: flex;
+      justify-content: start;
+      padding: 5px 0 ;
+    }
+    #chat-content .right .message-content .message-scroll span{
+      color:red
+    }
+    #chat-content .right .message-content .message-scroll .user-left p{
+      margin-left: 10px;
+    }
+    #chat-content .right .message-content .message-scroll .user-right p{
+      margin-right: 10px;
+    }
+    #chat-content .right .message-content .message-scroll .user-right{
+      width: 100%;
+      display: flex;
+      justify-content: flex-end;
+      padding: 5px 0 ;
+    }
+    #chat-content .right button{
+      height: 30px;
+     /* transform: translateY();  */
+    }
+    .user-welcome{
+      position: absolute;
+      bottom: 0;
+      left:50%;
+      transform: translateX(-50%);
+    }
+  </style>
+</head>
+<body>
+  <!-- 聊天界面 -->
+  <div id="chat-content" class="chat-content">
+    <div class="left">
+      <h2>在线人员</h2>
+      <ol class="user-list"></ol>
+    </div>
+    <div class="right">
+    <h2>鱼仙倌的聊天室</h2>
+    <div class="message-content" >
+      <div class="message-scroll" >
+         <p class="user-welcome" style="display: none;"></p>
+        <!-- <p class="user-leave" style="display: none;">fire离开房间</p> -->
+      </div>
+    </div>
+    <div class="btn-content">
+      <input type="text" name="" id="message">
+      <button id="send">send message</button>
+      <button id='close'>离开</button>
+      <button id="addmsg">增加对话</button>
+    </div>
+    </div>
+  </div>
+  <!-- 登录界面 -->
+  <div id="login">
+    <div class="form-content">
+      <div>
+        <label for="username">用户名</label><input type="text" name="" id="username"><span  id="userErr">请输入用户名</span>
+      </div>
+      <div>
+        <label for="password">密码</label><input type="password" name="" id="password"><span  id="pasErr">请输入密码</span>
+      </div>
+      <div class="btn-box">
+        <button id="login-btn">登录</button>
+        <button id="login-btn1">注册</button>
+      </div>
+    </div>
+  </div>
+  <script>
+
+    let userList = []
+    let chatContent = document.getElementById('chat-content')
+    let loginContent = document.getElementById('login')
+    let btn = document.getElementById('close')
+    let send = document.getElementById('send')
+    let inp = document.getElementById('message')
+    let login = document.getElementById('login-btn')
+    let regis = document.getElementById('login-btn1')
+    let userInp = document.getElementById('username')
+    let pasInp = document.getElementById('password')
+    let userErr = document.getElementById('userErr')
+    let pasErr = document.getElementById('pasErr')
+    let messageScroll = document.getElementsByClassName('message-scroll')[0]
+    let usetListOl = document.getElementsByClassName('user-list')[0]
+    let addMsg1 = document.getElementById('addmsg')
+    let messageContent = document.getElementsByClassName('message-content')[0]
+    let userWelcome = document.getElementsByClassName('user-welcome')[0]
+    // addMsg1.addEventListener('click',addMsg)
+    let success = false
+    
+    window.onload = function(){
+      let token = localStorage.getItem('token')
+      console.log(token,'token')
+      if(token) {
+        loginContent.style.display = 'none'
+        chatContent.style.display = 'flex'
+        chatContent.removeAttribute('class')
+        conn = []
+        usetListOl.innerHTML = ''
+        ininitWs()
+      }
+    }
+  // 登录界面逻辑
+  // 模拟注册
+  login.addEventListener('click',goLogin)
+  regis.addEventListener('click',register)
+  userInp.addEventListener('input',isEmpty)
+  pasInp.addEventListener('input',isEmpty)
+  function isEmpty(){
+    console.log('sssfff')
+    let username = userInp.value
+    let password = pasInp.value
+    if(!username) {
+      userErr.style.display = 'inline'
+    } else {
+      userErr.style.display = 'none'
+    }
+    if(!password) {
+      pasErr.style.display = 'inline'
+    } else {
+      pasErr.style.display = 'none'
+    }
+  }
+  function register(){
+    // 注册就是往localStorage里添加个账号密码 id 需要一个id生成逻辑
+    let username = userInp.value
+    let password = pasInp.value
+    if(!username || !password) {
+      return
+    }
+    let userId = proId(username)
+    setTimeout(()=>{
+      localStorage.setItem('userInfo',JSON.stringify({username,password,userId}))
+      success = true
+      alert('注册成功')
+    },1000)
+  }
+  function goLogin() {
+    let usern= userInp.value
+    let passw= pasInp.value
+    if(!usern || !passw) {
+      return
+    }
+    let {username,password} =  JSON.parse(localStorage.getItem('userInfo'))
+    if(usern==username&& passw==password) {
+      loginContent.style.display = 'none'
+      chatContent.style.display = 'flex'
+      chatContent.removeAttribute('class')
+      localStorage.setItem('token','1')
+      alert('登陆成功')
+      ininitWs()
+    }
+  }
+  function proId(username){
+    let time = new Date().getTime()
+    return username+time
+  }
+    function ininitWs(){
+      let scrollY = 0
+      var ws = new WebSocket('ws://localhost:4000/');
+      console.log(ws.close,'ws.co\lose')
+      // Web Socket 已连接上，使用 send() 方法发送数据
+      let {username,password,userId} =  JSON.parse(localStorage.getItem('userInfo'))
+      
+      ws.onopen = function() {
+        console.log('链接')
+        let message = {userInfo:{username:username,userId:userId},messageCode:'NEW_CONNECTION',message:''}
+        ws.send(JSON.stringify(message));
+      }
+      send.addEventListener('click',sendMsg)
+      function sendMsg() {
+        console.log('ssss')
+        let value = inp.value
+        let message = {userInfo:{username:username,userId:userId},messageCode:'NORMAL_CONNECTION',message:value}
+        ws.send(JSON.stringify(message));
+      }
+      btn.addEventListener('click',()=>{
+        console.log('-------主动关闭-------')
+        let message = {userInfo:{username:username,userId:userId},messageCode:'CLOSE_CONNECTION',message:''}
+        ws.send(JSON.stringify(message));
+        ws.close()
+      })
+      ws.onclose = function(e,x){
+      console.log('-------已经关闭-------',e,x)
+      }
+      // 这里接受服务器端发过来的消息
+      ws.onmessage = function(e) {
+      let data = JSON.parse(e.data)
+      var {conn,message,userInfo} = data
+      console.log(data)
+      if(data.sendCode === 'NEW_CONNECTION') {
+        // 新用户连接  更新列表 增加欢迎语句 一秒消失
+        proUserlist(conn)
+        productWecome(message)
+
+      } else if(data.sendCode === 'NORMAL_CONNECTION') {
+        console.log(message,'message')
+        addMsg(message,userInfo)
+        // 正常连接  增加交流文字
+      } else if(data.sendCode === 'ERROR_CONNECTION') {
+         // 错误链接  报错
+      } else if(data.sendCode === 'CLOSE_CONNECTION') {
+        // 有人关闭连接  更新列表 增加提醒语句
+        console.log(conn,'ccccccccccccccccccccccccccccc')
+        productWecome(message)
+        proUserlist(conn)
+      }
+      }
+      function addMsg(message,userInfo){
+        let div = document.createElement('div')
+        let span = document.createElement('span')
+        let p = document.createElement('p')
+        if (userInfo.userId === userId) {
+          span.innerHTML = userInfo.username
+          p.innerHTML = message
+          div.className = "user-right"
+          div.appendChild(p)
+          div.appendChild(span)
+          messageScroll.appendChild(div)
+        } else {
+          span.innerHTML = userInfo.username
+          p.innerHTML = message
+          div.className = "user-left"
+          div.appendChild(span)
+          div.appendChild(p)
+          messageScroll.appendChild(div)
+        }
+        let height = messageScroll.clientHeight
+        if (height>310) {
+          scrollY+=32
+          console.log( scrollY,'rfegscr',messageContent.scrollTop)
+          messageContent.scrollTop = `${scrollY}`
+        }
+      }
+      function productWecome(message) {
+        userWelcome.innerHTML = message
+        userWelcome.style.display = 'block'
+        setTimeout(()=>{
+          userWelcome.style.display = 'none'
+        },500)
+       
+      }
+      window.addEventListener('keydown',(e)=>{
+        if(e.keyCode==13 || e.key =="Enter") {
+          sendMsg()
+        }
+      })
+      
+      window.onbeforeunload = function(event){
+        
+        let message = {userInfo:{username:username,userId:userId},messageCode:'CLOSE_CONNECTION',message:''}
+        ws.send(JSON.stringify(message));
+        usetListOl.innerHTML = ''
+        conn = []
+        ws.close()
+      };
+ 
+    }
+   
+    function proUserlist(conn) {
+      //usetListOl
+      console.log(conn,'conn')
+      usetListOl.innerHTML = ''
+      conn.forEach(item=>{
+        let li = document.createElement('li')
+        let username = item.userInfo.username
+        li.innerHTML = username
+        usetListOl.appendChild(li)
+      })
+    }
+  </script>
+</body>
+</html>
