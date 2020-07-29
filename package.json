@@ -1,0 +1,32 @@
+{
+  "name": "node_socket",
+  "version": "0.0.1",
+  "description": "node socket  server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "pm2 start app.js --watch",
+    "prd": "set NODE_ENV=production&&pm2 start pm2.conf.json",
+    "reload": "set NODE_ENV=production&&pm2 reload pm2.conf.json",
+    "clear": "pm2 delete all",
+    "nodestart": "node ./app.js",
+    "stop": "pm2 stop all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zy1583301/node_socket.git"
+  },
+  "keywords": [
+    "websocket"
+  ],
+  "author": "鱼仙倌",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zy1583301/node_socket/issues"
+  },
+  "homepage": "https://github.com/zy1583301/node_socket#readme",
+  "dependencies": {
+    "nodejs-websocket": "^1.7.2",
+    "pm2": "^4.4.0"
+  },
+  "devDependencies": {}
+}

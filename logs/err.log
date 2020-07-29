@@ -1,0 +1,1972 @@
+2020-07-23 14:56:16: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:56:16:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:56:16:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:56:16:     at Server.listen (net.js:1436:7)
+2020-07-23 14:56:16:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:56:16:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:56:16:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:56:16:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:56:16:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:56:16:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:56:16:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:56:16:   code: 'EADDRINUSE',
+2020-07-23 14:56:16:   errno: 'EADDRINUSE',
+2020-07-23 14:56:16:   syscall: 'listen',
+2020-07-23 14:56:16:   address: '::',
+2020-07-23 14:56:16:   port: 3000
+2020-07-23 14:56:16: }
+2020-07-23 14:56:16: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:56:16:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:56:16:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:56:16:     at Server.listen (net.js:1436:7)
+2020-07-23 14:56:16:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:56:16:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:56:16:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:56:16:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:56:16:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:56:16:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:56:16:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:56:16:   code: 'EADDRINUSE',
+2020-07-23 14:56:16:   errno: 'EADDRINUSE',
+2020-07-23 14:56:16:   syscall: 'listen',
+2020-07-23 14:56:16:   address: '::',
+2020-07-23 14:56:16:   port: 3000
+2020-07-23 14:56:16: }
+2020-07-23 14:56:16: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:56:16:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:56:16:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:56:16:     at Server.listen (net.js:1436:7)
+2020-07-23 14:56:16:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:56:16:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:56:16:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:56:16:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:56:16:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:56:16:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:56:16:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:56:16:   code: 'EADDRINUSE',
+2020-07-23 14:56:16:   errno: 'EADDRINUSE',
+2020-07-23 14:56:16:   syscall: 'listen',
+2020-07-23 14:56:16:   address: '::',
+2020-07-23 14:56:16:   port: 3000
+2020-07-23 14:56:16: }
+2020-07-23 14:56:17: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:56:17:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:56:17:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:56:17:     at Server.listen (net.js:1436:7)
+2020-07-23 14:56:17:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:56:17:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:56:17:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:56:17:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:56:17:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:56:17:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:56:17:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:56:17:   code: 'EADDRINUSE',
+2020-07-23 14:56:17:   errno: 'EADDRINUSE',
+2020-07-23 14:56:17:   syscall: 'listen',
+2020-07-23 14:56:17:   address: '::',
+2020-07-23 14:56:17:   port: 3000
+2020-07-23 14:56:17: }
+2020-07-23 14:56:17: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:56:17:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:56:17:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:56:17:     at Server.listen (net.js:1436:7)
+2020-07-23 14:56:17:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:56:17:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:56:17:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:56:17:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:56:17:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:56:17:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:56:17:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:56:17:   code: 'EADDRINUSE',
+2020-07-23 14:56:17:   errno: 'EADDRINUSE',
+2020-07-23 14:56:17:   syscall: 'listen',
+2020-07-23 14:56:17:   address: '::',
+2020-07-23 14:56:17:   port: 3000
+2020-07-23 14:56:17: }
+2020-07-23 14:56:18: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:56:18:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:56:18:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:56:18:     at Server.listen (net.js:1436:7)
+2020-07-23 14:56:18:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:56:18:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:56:18:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:56:18:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:56:18:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:56:18:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:56:18:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:56:18:   code: 'EADDRINUSE',
+2020-07-23 14:56:18:   errno: 'EADDRINUSE',
+2020-07-23 14:56:18:   syscall: 'listen',
+2020-07-23 14:56:18:   address: '::',
+2020-07-23 14:56:18:   port: 3000
+2020-07-23 14:56:18: }
+2020-07-23 14:56:18: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:56:18:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:56:18:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:56:18:     at Server.listen (net.js:1436:7)
+2020-07-23 14:56:18:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:56:18:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:56:18:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:56:18:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:56:18:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:56:18:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:56:18:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:56:18:   code: 'EADDRINUSE',
+2020-07-23 14:56:18:   errno: 'EADDRINUSE',
+2020-07-23 14:56:18:   syscall: 'listen',
+2020-07-23 14:56:18:   address: '::',
+2020-07-23 14:56:18:   port: 3000
+2020-07-23 14:56:18: }
+2020-07-23 14:56:18: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:56:18:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:56:18:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:56:18:     at Server.listen (net.js:1436:7)
+2020-07-23 14:56:18:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:56:18:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:56:18:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:56:18:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:56:18:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:56:18:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:56:18:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:56:18:   code: 'EADDRINUSE',
+2020-07-23 14:56:18:   errno: 'EADDRINUSE',
+2020-07-23 14:56:18:   syscall: 'listen',
+2020-07-23 14:56:18:   address: '::',
+2020-07-23 14:56:18:   port: 3000
+2020-07-23 14:56:18: }
+2020-07-23 14:56:19: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:56:19:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:56:19:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:56:19:     at Server.listen (net.js:1436:7)
+2020-07-23 14:56:19:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:56:19:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:56:19:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:56:19:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:56:19:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:56:19:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:56:19:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:56:19:   code: 'EADDRINUSE',
+2020-07-23 14:56:19:   errno: 'EADDRINUSE',
+2020-07-23 14:56:19:   syscall: 'listen',
+2020-07-23 14:56:19:   address: '::',
+2020-07-23 14:56:19:   port: 3000
+2020-07-23 14:56:19: }
+2020-07-23 14:56:19: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:56:19:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:56:19:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:56:19:     at Server.listen (net.js:1436:7)
+2020-07-23 14:56:19:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:56:19:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:56:19:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:56:19:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:56:19:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:56:19:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:56:19:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:56:19:   code: 'EADDRINUSE',
+2020-07-23 14:56:19:   errno: 'EADDRINUSE',
+2020-07-23 14:56:19:   syscall: 'listen',
+2020-07-23 14:56:19:   address: '::',
+2020-07-23 14:56:19:   port: 3000
+2020-07-23 14:56:19: }
+2020-07-23 14:56:20: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:56:20:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:56:20:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:56:20:     at Server.listen (net.js:1436:7)
+2020-07-23 14:56:20:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:56:20:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:56:20:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:56:20:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:56:20:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:56:20:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:56:20:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:56:20:   code: 'EADDRINUSE',
+2020-07-23 14:56:20:   errno: 'EADDRINUSE',
+2020-07-23 14:56:20:   syscall: 'listen',
+2020-07-23 14:56:20:   address: '::',
+2020-07-23 14:56:20:   port: 3000
+2020-07-23 14:56:20: }
+2020-07-23 14:56:20: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:56:20:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:56:20:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:56:20:     at Server.listen (net.js:1436:7)
+2020-07-23 14:56:20:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:56:20:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:56:20:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:56:20:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:56:20:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:56:20:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:56:20:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:56:20:   code: 'EADDRINUSE',
+2020-07-23 14:56:20:   errno: 'EADDRINUSE',
+2020-07-23 14:56:20:   syscall: 'listen',
+2020-07-23 14:56:20:   address: '::',
+2020-07-23 14:56:20:   port: 3000
+2020-07-23 14:56:20: }
+2020-07-23 14:56:20: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:56:20:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:56:20:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:56:20:     at Server.listen (net.js:1436:7)
+2020-07-23 14:56:20:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:56:20:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:56:20:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:56:20:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:56:20:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:56:20:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:56:20:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:56:20:   code: 'EADDRINUSE',
+2020-07-23 14:56:20:   errno: 'EADDRINUSE',
+2020-07-23 14:56:20:   syscall: 'listen',
+2020-07-23 14:56:20:   address: '::',
+2020-07-23 14:56:20:   port: 3000
+2020-07-23 14:56:20: }
+2020-07-23 14:56:21: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:56:21:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:56:21:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:56:21:     at Server.listen (net.js:1436:7)
+2020-07-23 14:56:21:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:56:21:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:56:21:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:56:21:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:56:21:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:56:21:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:56:21:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:56:21:   code: 'EADDRINUSE',
+2020-07-23 14:56:21:   errno: 'EADDRINUSE',
+2020-07-23 14:56:21:   syscall: 'listen',
+2020-07-23 14:56:21:   address: '::',
+2020-07-23 14:56:21:   port: 3000
+2020-07-23 14:56:21: }
+2020-07-23 14:56:21: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:56:21:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:56:21:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:56:21:     at Server.listen (net.js:1436:7)
+2020-07-23 14:56:21:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:56:21:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:56:21:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:56:21:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:56:21:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:56:21:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:56:21:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:56:21:   code: 'EADDRINUSE',
+2020-07-23 14:56:21:   errno: 'EADDRINUSE',
+2020-07-23 14:56:21:   syscall: 'listen',
+2020-07-23 14:56:21:   address: '::',
+2020-07-23 14:56:21:   port: 3000
+2020-07-23 14:56:21: }
+2020-07-23 14:56:21: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:56:21:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:56:21:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:56:21:     at Server.listen (net.js:1436:7)
+2020-07-23 14:56:21:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:56:21:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:56:21:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:56:21:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:56:21:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:56:21:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:56:21:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:56:21:   code: 'EADDRINUSE',
+2020-07-23 14:56:21:   errno: 'EADDRINUSE',
+2020-07-23 14:56:21:   syscall: 'listen',
+2020-07-23 14:56:21:   address: '::',
+2020-07-23 14:56:21:   port: 3000
+2020-07-23 14:56:21: }
+2020-07-23 14:59:00: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:59:00:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:59:00:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:59:00:     at Server.listen (net.js:1436:7)
+2020-07-23 14:59:00:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:59:00:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:59:00:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:59:00:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:59:00:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:59:00:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:59:00:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:59:00:   code: 'EADDRINUSE',
+2020-07-23 14:59:00:   errno: 'EADDRINUSE',
+2020-07-23 14:59:00:   syscall: 'listen',
+2020-07-23 14:59:00:   address: '::',
+2020-07-23 14:59:00:   port: 3000
+2020-07-23 14:59:00: }
+2020-07-23 14:59:00: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:59:00:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:59:00:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:59:00:     at Server.listen (net.js:1436:7)
+2020-07-23 14:59:00:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:59:00:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:59:00:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:59:00:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:59:00:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:59:00:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:59:00:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:59:00:   code: 'EADDRINUSE',
+2020-07-23 14:59:00:   errno: 'EADDRINUSE',
+2020-07-23 14:59:00:   syscall: 'listen',
+2020-07-23 14:59:00:   address: '::',
+2020-07-23 14:59:00:   port: 3000
+2020-07-23 14:59:00: }
+2020-07-23 14:59:00: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:59:00:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:59:00:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:59:00:     at Server.listen (net.js:1436:7)
+2020-07-23 14:59:00:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:59:00:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:59:00:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:59:00:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:59:00:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:59:00:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:59:00:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:59:00:   code: 'EADDRINUSE',
+2020-07-23 14:59:00:   errno: 'EADDRINUSE',
+2020-07-23 14:59:00:   syscall: 'listen',
+2020-07-23 14:59:00:   address: '::',
+2020-07-23 14:59:00:   port: 3000
+2020-07-23 14:59:00: }
+2020-07-23 14:59:01: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:59:01:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:59:01:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:59:01:     at Server.listen (net.js:1436:7)
+2020-07-23 14:59:01:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:59:01:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:59:01:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:59:01:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:59:01:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:59:01:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:59:01:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:59:01:   code: 'EADDRINUSE',
+2020-07-23 14:59:01:   errno: 'EADDRINUSE',
+2020-07-23 14:59:01:   syscall: 'listen',
+2020-07-23 14:59:01:   address: '::',
+2020-07-23 14:59:01:   port: 3000
+2020-07-23 14:59:01: }
+2020-07-23 14:59:01: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:59:01:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:59:01:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:59:01:     at Server.listen (net.js:1436:7)
+2020-07-23 14:59:01:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:59:01:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:59:01:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:59:01:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:59:01:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:59:01:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:59:01:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:59:01:   code: 'EADDRINUSE',
+2020-07-23 14:59:01:   errno: 'EADDRINUSE',
+2020-07-23 14:59:01:   syscall: 'listen',
+2020-07-23 14:59:01:   address: '::',
+2020-07-23 14:59:01:   port: 3000
+2020-07-23 14:59:01: }
+2020-07-23 14:59:01: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:59:01:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:59:01:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:59:01:     at Server.listen (net.js:1436:7)
+2020-07-23 14:59:01:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:59:01:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:59:01:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:59:01:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:59:01:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:59:01:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:59:01:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:59:01:   code: 'EADDRINUSE',
+2020-07-23 14:59:01:   errno: 'EADDRINUSE',
+2020-07-23 14:59:01:   syscall: 'listen',
+2020-07-23 14:59:01:   address: '::',
+2020-07-23 14:59:01:   port: 3000
+2020-07-23 14:59:01: }
+2020-07-23 14:59:02: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:59:02:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:59:02:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:59:02:     at Server.listen (net.js:1436:7)
+2020-07-23 14:59:02:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:59:02:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:59:02:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:59:02:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:59:02:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:59:02:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:59:02:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:59:02:   code: 'EADDRINUSE',
+2020-07-23 14:59:02:   errno: 'EADDRINUSE',
+2020-07-23 14:59:02:   syscall: 'listen',
+2020-07-23 14:59:02:   address: '::',
+2020-07-23 14:59:02:   port: 3000
+2020-07-23 14:59:02: }
+2020-07-23 14:59:02: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:59:02:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:59:02:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:59:02:     at Server.listen (net.js:1436:7)
+2020-07-23 14:59:02:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:59:02:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:59:02:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:59:02:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:59:02:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:59:02:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:59:02:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:59:02:   code: 'EADDRINUSE',
+2020-07-23 14:59:02:   errno: 'EADDRINUSE',
+2020-07-23 14:59:02:   syscall: 'listen',
+2020-07-23 14:59:02:   address: '::',
+2020-07-23 14:59:02:   port: 3000
+2020-07-23 14:59:02: }
+2020-07-23 14:59:03: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:59:03:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:59:03:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:59:03:     at Server.listen (net.js:1436:7)
+2020-07-23 14:59:03:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:59:03:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:59:03:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:59:03:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:59:03:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:59:03:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:59:03:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:59:03:   code: 'EADDRINUSE',
+2020-07-23 14:59:03:   errno: 'EADDRINUSE',
+2020-07-23 14:59:03:   syscall: 'listen',
+2020-07-23 14:59:03:   address: '::',
+2020-07-23 14:59:03:   port: 3000
+2020-07-23 14:59:03: }
+2020-07-23 14:59:03: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:59:03:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:59:03:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:59:03:     at Server.listen (net.js:1436:7)
+2020-07-23 14:59:03:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:59:03:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:59:03:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:59:03:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:59:03:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:59:03:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:59:03:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:59:03:   code: 'EADDRINUSE',
+2020-07-23 14:59:03:   errno: 'EADDRINUSE',
+2020-07-23 14:59:03:   syscall: 'listen',
+2020-07-23 14:59:03:   address: '::',
+2020-07-23 14:59:03:   port: 3000
+2020-07-23 14:59:03: }
+2020-07-23 14:59:03: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:59:03:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:59:03:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:59:03:     at Server.listen (net.js:1436:7)
+2020-07-23 14:59:03:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:59:03:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:59:03:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:59:03:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:59:03:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:59:03:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:59:03:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:59:03:   code: 'EADDRINUSE',
+2020-07-23 14:59:03:   errno: 'EADDRINUSE',
+2020-07-23 14:59:03:   syscall: 'listen',
+2020-07-23 14:59:03:   address: '::',
+2020-07-23 14:59:03:   port: 3000
+2020-07-23 14:59:03: }
+2020-07-23 14:59:04: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:59:04:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:59:04:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:59:04:     at Server.listen (net.js:1436:7)
+2020-07-23 14:59:04:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:59:04:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:59:04:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:59:04:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:59:04:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:59:04:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:59:04:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:59:04:   code: 'EADDRINUSE',
+2020-07-23 14:59:04:   errno: 'EADDRINUSE',
+2020-07-23 14:59:04:   syscall: 'listen',
+2020-07-23 14:59:04:   address: '::',
+2020-07-23 14:59:04:   port: 3000
+2020-07-23 14:59:04: }
+2020-07-23 14:59:04: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:59:04:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:59:04:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:59:04:     at Server.listen (net.js:1436:7)
+2020-07-23 14:59:04:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:59:04:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:59:04:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:59:04:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:59:04:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:59:04:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:59:04:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:59:04:   code: 'EADDRINUSE',
+2020-07-23 14:59:04:   errno: 'EADDRINUSE',
+2020-07-23 14:59:04:   syscall: 'listen',
+2020-07-23 14:59:04:   address: '::',
+2020-07-23 14:59:04:   port: 3000
+2020-07-23 14:59:04: }
+2020-07-23 14:59:04: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:59:04:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:59:04:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:59:04:     at Server.listen (net.js:1436:7)
+2020-07-23 14:59:04:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:59:04:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:59:04:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:59:04:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:59:04:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:59:04:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:59:04:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:59:04:   code: 'EADDRINUSE',
+2020-07-23 14:59:04:   errno: 'EADDRINUSE',
+2020-07-23 14:59:04:   syscall: 'listen',
+2020-07-23 14:59:04:   address: '::',
+2020-07-23 14:59:04:   port: 3000
+2020-07-23 14:59:04: }
+2020-07-23 14:59:04: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:59:04:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:59:04:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:59:04:     at Server.listen (net.js:1436:7)
+2020-07-23 14:59:04:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:59:04:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:59:04:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:59:04:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:59:04:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:59:04:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:59:04:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:59:04:   code: 'EADDRINUSE',
+2020-07-23 14:59:04:   errno: 'EADDRINUSE',
+2020-07-23 14:59:04:   syscall: 'listen',
+2020-07-23 14:59:04:   address: '::',
+2020-07-23 14:59:04:   port: 3000
+2020-07-23 14:59:04: }
+2020-07-23 14:59:05: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 14:59:05:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 14:59:05:     at listenInCluster (net.js:1348:12)
+2020-07-23 14:59:05:     at Server.listen (net.js:1436:7)
+2020-07-23 14:59:05:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 14:59:05:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 14:59:05:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 14:59:05:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 14:59:05:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 14:59:05:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 14:59:05:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 14:59:05:   code: 'EADDRINUSE',
+2020-07-23 14:59:05:   errno: 'EADDRINUSE',
+2020-07-23 14:59:05:   syscall: 'listen',
+2020-07-23 14:59:05:   address: '::',
+2020-07-23 14:59:05:   port: 3000
+2020-07-23 14:59:05: }
+2020-07-23 15:01:19: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 15:01:19:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 15:01:19:     at listenInCluster (net.js:1348:12)
+2020-07-23 15:01:19:     at Server.listen (net.js:1436:7)
+2020-07-23 15:01:19:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 15:01:19:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 15:01:19:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 15:01:19:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 15:01:19:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 15:01:19:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 15:01:19:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 15:01:19:   code: 'EADDRINUSE',
+2020-07-23 15:01:19:   errno: 'EADDRINUSE',
+2020-07-23 15:01:19:   syscall: 'listen',
+2020-07-23 15:01:19:   address: '::',
+2020-07-23 15:01:19:   port: 3000
+2020-07-23 15:01:19: }
+2020-07-23 15:01:20: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 15:01:20:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 15:01:20:     at listenInCluster (net.js:1348:12)
+2020-07-23 15:01:20:     at Server.listen (net.js:1436:7)
+2020-07-23 15:01:20:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 15:01:20:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 15:01:20:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 15:01:20:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 15:01:20:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 15:01:20:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 15:01:20:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 15:01:20:   code: 'EADDRINUSE',
+2020-07-23 15:01:20:   errno: 'EADDRINUSE',
+2020-07-23 15:01:20:   syscall: 'listen',
+2020-07-23 15:01:20:   address: '::',
+2020-07-23 15:01:20:   port: 3000
+2020-07-23 15:01:20: }
+2020-07-23 15:01:20: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 15:01:20:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 15:01:20:     at listenInCluster (net.js:1348:12)
+2020-07-23 15:01:20:     at Server.listen (net.js:1436:7)
+2020-07-23 15:01:20:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 15:01:20:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 15:01:20:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 15:01:20:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 15:01:20:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 15:01:20:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 15:01:20:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 15:01:20:   code: 'EADDRINUSE',
+2020-07-23 15:01:20:   errno: 'EADDRINUSE',
+2020-07-23 15:01:20:   syscall: 'listen',
+2020-07-23 15:01:20:   address: '::',
+2020-07-23 15:01:20:   port: 3000
+2020-07-23 15:01:20: }
+2020-07-23 15:01:20: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 15:01:20:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 15:01:20:     at listenInCluster (net.js:1348:12)
+2020-07-23 15:01:20:     at Server.listen (net.js:1436:7)
+2020-07-23 15:01:20:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 15:01:20:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 15:01:20:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 15:01:20:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 15:01:20:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 15:01:20:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 15:01:20:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 15:01:20:   code: 'EADDRINUSE',
+2020-07-23 15:01:20:   errno: 'EADDRINUSE',
+2020-07-23 15:01:20:   syscall: 'listen',
+2020-07-23 15:01:20:   address: '::',
+2020-07-23 15:01:20:   port: 3000
+2020-07-23 15:01:20: }
+2020-07-23 15:01:21: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 15:01:21:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 15:01:21:     at listenInCluster (net.js:1348:12)
+2020-07-23 15:01:21:     at Server.listen (net.js:1436:7)
+2020-07-23 15:01:21:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 15:01:21:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 15:01:21:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 15:01:21:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 15:01:21:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 15:01:21:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 15:01:21:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 15:01:21:   code: 'EADDRINUSE',
+2020-07-23 15:01:21:   errno: 'EADDRINUSE',
+2020-07-23 15:01:21:   syscall: 'listen',
+2020-07-23 15:01:21:   address: '::',
+2020-07-23 15:01:21:   port: 3000
+2020-07-23 15:01:21: }
+2020-07-23 15:01:21: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 15:01:21:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 15:01:21:     at listenInCluster (net.js:1348:12)
+2020-07-23 15:01:21:     at Server.listen (net.js:1436:7)
+2020-07-23 15:01:21:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 15:01:21:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 15:01:21:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 15:01:21:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 15:01:21:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 15:01:21:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 15:01:21:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 15:01:21:   code: 'EADDRINUSE',
+2020-07-23 15:01:21:   errno: 'EADDRINUSE',
+2020-07-23 15:01:21:   syscall: 'listen',
+2020-07-23 15:01:21:   address: '::',
+2020-07-23 15:01:21:   port: 3000
+2020-07-23 15:01:21: }
+2020-07-23 15:01:22: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 15:01:22:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 15:01:22:     at listenInCluster (net.js:1348:12)
+2020-07-23 15:01:22:     at Server.listen (net.js:1436:7)
+2020-07-23 15:01:22:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 15:01:22:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 15:01:22:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 15:01:22:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 15:01:22:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 15:01:22:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 15:01:22:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 15:01:22:   code: 'EADDRINUSE',
+2020-07-23 15:01:22:   errno: 'EADDRINUSE',
+2020-07-23 15:01:22:   syscall: 'listen',
+2020-07-23 15:01:22:   address: '::',
+2020-07-23 15:01:22:   port: 3000
+2020-07-23 15:01:22: }
+2020-07-23 15:01:22: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 15:01:22:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 15:01:22:     at listenInCluster (net.js:1348:12)
+2020-07-23 15:01:22:     at Server.listen (net.js:1436:7)
+2020-07-23 15:01:22:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 15:01:22:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 15:01:22:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 15:01:22:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 15:01:22:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 15:01:22:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 15:01:22:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 15:01:22:   code: 'EADDRINUSE',
+2020-07-23 15:01:22:   errno: 'EADDRINUSE',
+2020-07-23 15:01:22:   syscall: 'listen',
+2020-07-23 15:01:22:   address: '::',
+2020-07-23 15:01:22:   port: 3000
+2020-07-23 15:01:22: }
+2020-07-23 15:01:23: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 15:01:23:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 15:01:23:     at listenInCluster (net.js:1348:12)
+2020-07-23 15:01:23:     at Server.listen (net.js:1436:7)
+2020-07-23 15:01:23:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 15:01:23:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 15:01:23:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 15:01:23:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 15:01:23:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 15:01:23:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 15:01:23:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 15:01:23:   code: 'EADDRINUSE',
+2020-07-23 15:01:23:   errno: 'EADDRINUSE',
+2020-07-23 15:01:23:   syscall: 'listen',
+2020-07-23 15:01:23:   address: '::',
+2020-07-23 15:01:23:   port: 3000
+2020-07-23 15:01:23: }
+2020-07-23 15:01:23: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 15:01:23:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 15:01:23:     at listenInCluster (net.js:1348:12)
+2020-07-23 15:01:23:     at Server.listen (net.js:1436:7)
+2020-07-23 15:01:23:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 15:01:23:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 15:01:23:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 15:01:23:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 15:01:23:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 15:01:23:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 15:01:23:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 15:01:23:   code: 'EADDRINUSE',
+2020-07-23 15:01:23:   errno: 'EADDRINUSE',
+2020-07-23 15:01:23:   syscall: 'listen',
+2020-07-23 15:01:23:   address: '::',
+2020-07-23 15:01:23:   port: 3000
+2020-07-23 15:01:23: }
+2020-07-23 15:01:24: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 15:01:24:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 15:01:24:     at listenInCluster (net.js:1348:12)
+2020-07-23 15:01:24:     at Server.listen (net.js:1436:7)
+2020-07-23 15:01:24:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 15:01:24:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 15:01:24:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 15:01:24:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 15:01:24:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 15:01:24:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 15:01:24:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 15:01:24:   code: 'EADDRINUSE',
+2020-07-23 15:01:24:   errno: 'EADDRINUSE',
+2020-07-23 15:01:24:   syscall: 'listen',
+2020-07-23 15:01:24:   address: '::',
+2020-07-23 15:01:24:   port: 3000
+2020-07-23 15:01:24: }
+2020-07-23 15:01:24: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 15:01:24:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 15:01:24:     at listenInCluster (net.js:1348:12)
+2020-07-23 15:01:24:     at Server.listen (net.js:1436:7)
+2020-07-23 15:01:24:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 15:01:24:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 15:01:24:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 15:01:24:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 15:01:24:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 15:01:24:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 15:01:24:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 15:01:24:   code: 'EADDRINUSE',
+2020-07-23 15:01:24:   errno: 'EADDRINUSE',
+2020-07-23 15:01:24:   syscall: 'listen',
+2020-07-23 15:01:24:   address: '::',
+2020-07-23 15:01:24:   port: 3000
+2020-07-23 15:01:24: }
+2020-07-23 15:01:24: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 15:01:24:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 15:01:24:     at listenInCluster (net.js:1348:12)
+2020-07-23 15:01:24:     at Server.listen (net.js:1436:7)
+2020-07-23 15:01:24:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 15:01:24:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 15:01:24:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 15:01:24:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 15:01:24:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 15:01:24:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 15:01:24:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 15:01:24:   code: 'EADDRINUSE',
+2020-07-23 15:01:24:   errno: 'EADDRINUSE',
+2020-07-23 15:01:24:   syscall: 'listen',
+2020-07-23 15:01:24:   address: '::',
+2020-07-23 15:01:24:   port: 3000
+2020-07-23 15:01:24: }
+2020-07-23 15:01:25: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 15:01:25:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 15:01:25:     at listenInCluster (net.js:1348:12)
+2020-07-23 15:01:25:     at Server.listen (net.js:1436:7)
+2020-07-23 15:01:25:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 15:01:25:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 15:01:25:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 15:01:25:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 15:01:25:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 15:01:25:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 15:01:25:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 15:01:25:   code: 'EADDRINUSE',
+2020-07-23 15:01:25:   errno: 'EADDRINUSE',
+2020-07-23 15:01:25:   syscall: 'listen',
+2020-07-23 15:01:25:   address: '::',
+2020-07-23 15:01:25:   port: 3000
+2020-07-23 15:01:25: }
+2020-07-23 15:01:25: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 15:01:25:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 15:01:25:     at listenInCluster (net.js:1348:12)
+2020-07-23 15:01:25:     at Server.listen (net.js:1436:7)
+2020-07-23 15:01:25:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 15:01:25:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 15:01:25:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 15:01:25:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 15:01:25:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 15:01:25:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 15:01:25:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 15:01:25:   code: 'EADDRINUSE',
+2020-07-23 15:01:25:   errno: 'EADDRINUSE',
+2020-07-23 15:01:25:   syscall: 'listen',
+2020-07-23 15:01:25:   address: '::',
+2020-07-23 15:01:25:   port: 3000
+2020-07-23 15:01:25: }
+2020-07-23 15:01:25: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-23 15:01:25:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-23 15:01:25:     at listenInCluster (net.js:1348:12)
+2020-07-23 15:01:25:     at Server.listen (net.js:1436:7)
+2020-07-23 15:01:25:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-23 15:01:25:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-23 15:01:25:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-23 15:01:25:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-23 15:01:25:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-23 15:01:25:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-23 15:01:25:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-23 15:01:25:   code: 'EADDRINUSE',
+2020-07-23 15:01:25:   errno: 'EADDRINUSE',
+2020-07-23 15:01:25:   syscall: 'listen',
+2020-07-23 15:01:25:   address: '::',
+2020-07-23 15:01:25:   port: 3000
+2020-07-23 15:01:25: }
+2020-07-27 17:58:41: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-27 17:58:41:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-27 17:58:41:     at listenInCluster (net.js:1348:12)
+2020-07-27 17:58:41:     at Server.listen (net.js:1436:7)
+2020-07-27 17:58:41:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-27 17:58:41:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-27 17:58:41:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-27 17:58:41:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-27 17:58:41:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-27 17:58:41:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-27 17:58:41:     at Object.<anonymous> (C:\Users\issuser\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-27 17:58:41:   code: 'EADDRINUSE',
+2020-07-27 17:58:41:   errno: 'EADDRINUSE',
+2020-07-27 17:58:41:   syscall: 'listen',
+2020-07-27 17:58:41:   address: '::',
+2020-07-27 17:58:41:   port: 3000
+2020-07-27 17:58:41: }
+2020-07-29 14:26:06: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:26:06:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:26:06:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:26:06:     at Server.listen (net.js:1436:7)
+2020-07-29 14:26:06:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:26:06:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:26:06:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:26:06:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:26:06:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:26:06:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:26:06:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:26:06:   code: 'EADDRINUSE',
+2020-07-29 14:26:06:   errno: 'EADDRINUSE',
+2020-07-29 14:26:06:   syscall: 'listen',
+2020-07-29 14:26:06:   address: '::',
+2020-07-29 14:26:06:   port: 3000
+2020-07-29 14:26:06: }
+2020-07-29 14:26:06: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:26:06:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:26:06:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:26:06:     at Server.listen (net.js:1436:7)
+2020-07-29 14:26:06:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:26:06:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:26:06:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:26:06:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:26:06:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:26:06:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:26:06:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:26:06:   code: 'EADDRINUSE',
+2020-07-29 14:26:06:   errno: 'EADDRINUSE',
+2020-07-29 14:26:06:   syscall: 'listen',
+2020-07-29 14:26:06:   address: '::',
+2020-07-29 14:26:06:   port: 3000
+2020-07-29 14:26:06: }
+2020-07-29 14:26:07: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:26:07:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:26:07:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:26:07:     at Server.listen (net.js:1436:7)
+2020-07-29 14:26:07:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:26:07:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:26:07:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:26:07:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:26:07:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:26:07:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:26:07:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:26:07:   code: 'EADDRINUSE',
+2020-07-29 14:26:07:   errno: 'EADDRINUSE',
+2020-07-29 14:26:07:   syscall: 'listen',
+2020-07-29 14:26:07:   address: '::',
+2020-07-29 14:26:07:   port: 3000
+2020-07-29 14:26:07: }
+2020-07-29 14:26:07: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:26:07:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:26:07:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:26:07:     at Server.listen (net.js:1436:7)
+2020-07-29 14:26:07:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:26:07:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:26:07:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:26:07:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:26:07:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:26:07:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:26:07:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:26:07:   code: 'EADDRINUSE',
+2020-07-29 14:26:07:   errno: 'EADDRINUSE',
+2020-07-29 14:26:07:   syscall: 'listen',
+2020-07-29 14:26:07:   address: '::',
+2020-07-29 14:26:07:   port: 3000
+2020-07-29 14:26:07: }
+2020-07-29 14:26:07: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:26:07:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:26:07:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:26:07:     at Server.listen (net.js:1436:7)
+2020-07-29 14:26:07:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:26:07:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:26:07:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:26:07:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:26:07:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:26:07:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:26:07:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:26:07:   code: 'EADDRINUSE',
+2020-07-29 14:26:07:   errno: 'EADDRINUSE',
+2020-07-29 14:26:07:   syscall: 'listen',
+2020-07-29 14:26:07:   address: '::',
+2020-07-29 14:26:07:   port: 3000
+2020-07-29 14:26:07: }
+2020-07-29 14:26:08: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:26:08:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:26:08:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:26:08:     at Server.listen (net.js:1436:7)
+2020-07-29 14:26:08:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:26:08:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:26:08:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:26:08:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:26:08:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:26:08:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:26:08:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:26:08:   code: 'EADDRINUSE',
+2020-07-29 14:26:08:   errno: 'EADDRINUSE',
+2020-07-29 14:26:08:   syscall: 'listen',
+2020-07-29 14:26:08:   address: '::',
+2020-07-29 14:26:08:   port: 3000
+2020-07-29 14:26:08: }
+2020-07-29 14:26:08: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:26:08:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:26:08:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:26:08:     at Server.listen (net.js:1436:7)
+2020-07-29 14:26:08:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:26:08:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:26:08:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:26:08:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:26:08:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:26:08:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:26:08:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:26:08:   code: 'EADDRINUSE',
+2020-07-29 14:26:08:   errno: 'EADDRINUSE',
+2020-07-29 14:26:08:   syscall: 'listen',
+2020-07-29 14:26:08:   address: '::',
+2020-07-29 14:26:08:   port: 3000
+2020-07-29 14:26:08: }
+2020-07-29 14:26:08: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:26:08:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:26:08:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:26:08:     at Server.listen (net.js:1436:7)
+2020-07-29 14:26:08:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:26:08:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:26:08:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:26:08:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:26:08:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:26:08:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:26:08:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:26:08:   code: 'EADDRINUSE',
+2020-07-29 14:26:08:   errno: 'EADDRINUSE',
+2020-07-29 14:26:08:   syscall: 'listen',
+2020-07-29 14:26:08:   address: '::',
+2020-07-29 14:26:08:   port: 3000
+2020-07-29 14:26:08: }
+2020-07-29 14:26:09: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:26:09:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:26:09:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:26:09:     at Server.listen (net.js:1436:7)
+2020-07-29 14:26:09:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:26:09:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:26:09:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:26:09:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:26:09:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:26:09:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:26:09:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:26:09:   code: 'EADDRINUSE',
+2020-07-29 14:26:09:   errno: 'EADDRINUSE',
+2020-07-29 14:26:09:   syscall: 'listen',
+2020-07-29 14:26:09:   address: '::',
+2020-07-29 14:26:09:   port: 3000
+2020-07-29 14:26:09: }
+2020-07-29 14:26:09: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:26:09:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:26:09:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:26:09:     at Server.listen (net.js:1436:7)
+2020-07-29 14:26:09:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:26:09:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:26:09:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:26:09:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:26:09:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:26:09:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:26:09:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:26:09:   code: 'EADDRINUSE',
+2020-07-29 14:26:09:   errno: 'EADDRINUSE',
+2020-07-29 14:26:09:   syscall: 'listen',
+2020-07-29 14:26:09:   address: '::',
+2020-07-29 14:26:09:   port: 3000
+2020-07-29 14:26:09: }
+2020-07-29 14:26:09: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:26:09:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:26:09:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:26:09:     at Server.listen (net.js:1436:7)
+2020-07-29 14:26:09:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:26:09:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:26:09:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:26:09:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:26:09:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:26:09:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:26:09:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:26:09:   code: 'EADDRINUSE',
+2020-07-29 14:26:09:   errno: 'EADDRINUSE',
+2020-07-29 14:26:09:   syscall: 'listen',
+2020-07-29 14:26:09:   address: '::',
+2020-07-29 14:26:09:   port: 3000
+2020-07-29 14:26:09: }
+2020-07-29 14:26:10: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:26:10:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:26:10:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:26:10:     at Server.listen (net.js:1436:7)
+2020-07-29 14:26:10:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:26:10:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:26:10:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:26:10:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:26:10:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:26:10:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:26:10:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:26:10:   code: 'EADDRINUSE',
+2020-07-29 14:26:10:   errno: 'EADDRINUSE',
+2020-07-29 14:26:10:   syscall: 'listen',
+2020-07-29 14:26:10:   address: '::',
+2020-07-29 14:26:10:   port: 3000
+2020-07-29 14:26:10: }
+2020-07-29 14:26:10: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:26:10:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:26:10:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:26:10:     at Server.listen (net.js:1436:7)
+2020-07-29 14:26:10:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:26:10:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:26:10:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:26:10:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:26:10:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:26:10:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:26:10:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:26:10:   code: 'EADDRINUSE',
+2020-07-29 14:26:10:   errno: 'EADDRINUSE',
+2020-07-29 14:26:10:   syscall: 'listen',
+2020-07-29 14:26:10:   address: '::',
+2020-07-29 14:26:10:   port: 3000
+2020-07-29 14:26:10: }
+2020-07-29 14:26:10: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:26:10:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:26:10:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:26:10:     at Server.listen (net.js:1436:7)
+2020-07-29 14:26:10:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:26:10:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:26:10:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:26:10:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:26:10:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:26:10:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:26:10:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:26:10:   code: 'EADDRINUSE',
+2020-07-29 14:26:10:   errno: 'EADDRINUSE',
+2020-07-29 14:26:10:   syscall: 'listen',
+2020-07-29 14:26:10:   address: '::',
+2020-07-29 14:26:10:   port: 3000
+2020-07-29 14:26:10: }
+2020-07-29 14:26:11: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:26:11:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:26:11:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:26:11:     at Server.listen (net.js:1436:7)
+2020-07-29 14:26:11:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:26:11:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:26:11:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:26:11:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:26:11:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:26:11:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:26:11:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:26:11:   code: 'EADDRINUSE',
+2020-07-29 14:26:11:   errno: 'EADDRINUSE',
+2020-07-29 14:26:11:   syscall: 'listen',
+2020-07-29 14:26:11:   address: '::',
+2020-07-29 14:26:11:   port: 3000
+2020-07-29 14:26:11: }
+2020-07-29 14:26:11: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:26:11:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:26:11:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:26:11:     at Server.listen (net.js:1436:7)
+2020-07-29 14:26:11:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:26:11:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:26:11:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:26:11:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:26:11:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:26:11:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:26:11:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:26:11:   code: 'EADDRINUSE',
+2020-07-29 14:26:11:   errno: 'EADDRINUSE',
+2020-07-29 14:26:11:   syscall: 'listen',
+2020-07-29 14:26:11:   address: '::',
+2020-07-29 14:26:11:   port: 3000
+2020-07-29 14:26:11: }
+2020-07-29 14:27:45: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:27:45:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:27:45:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:27:45:     at Server.listen (net.js:1436:7)
+2020-07-29 14:27:45:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:27:45:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:27:45:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:27:45:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:27:45:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:27:45:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:27:45:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:27:45:   code: 'EADDRINUSE',
+2020-07-29 14:27:45:   errno: 'EADDRINUSE',
+2020-07-29 14:27:45:   syscall: 'listen',
+2020-07-29 14:27:45:   address: '::',
+2020-07-29 14:27:45:   port: 3000
+2020-07-29 14:27:45: }
+2020-07-29 14:27:45: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:27:45:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:27:45:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:27:45:     at Server.listen (net.js:1436:7)
+2020-07-29 14:27:45:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:27:45:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:27:45:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:27:45:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:27:45:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:27:45:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:27:45:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:27:45:   code: 'EADDRINUSE',
+2020-07-29 14:27:45:   errno: 'EADDRINUSE',
+2020-07-29 14:27:45:   syscall: 'listen',
+2020-07-29 14:27:45:   address: '::',
+2020-07-29 14:27:45:   port: 3000
+2020-07-29 14:27:45: }
+2020-07-29 14:27:45: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:27:45:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:27:45:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:27:45:     at Server.listen (net.js:1436:7)
+2020-07-29 14:27:45:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:27:45:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:27:45:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:27:45:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:27:45:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:27:45:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:27:45:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:27:45:   code: 'EADDRINUSE',
+2020-07-29 14:27:45:   errno: 'EADDRINUSE',
+2020-07-29 14:27:45:   syscall: 'listen',
+2020-07-29 14:27:45:   address: '::',
+2020-07-29 14:27:45:   port: 3000
+2020-07-29 14:27:45: }
+2020-07-29 14:27:46: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:27:46:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:27:46:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:27:46:     at Server.listen (net.js:1436:7)
+2020-07-29 14:27:46:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:27:46:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:27:46:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:27:46:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:27:46:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:27:46:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:27:46:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:27:46:   code: 'EADDRINUSE',
+2020-07-29 14:27:46:   errno: 'EADDRINUSE',
+2020-07-29 14:27:46:   syscall: 'listen',
+2020-07-29 14:27:46:   address: '::',
+2020-07-29 14:27:46:   port: 3000
+2020-07-29 14:27:46: }
+2020-07-29 14:27:46: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:27:46:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:27:46:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:27:46:     at Server.listen (net.js:1436:7)
+2020-07-29 14:27:46:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:27:46:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:27:46:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:27:46:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:27:46:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:27:46:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:27:46:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:27:46:   code: 'EADDRINUSE',
+2020-07-29 14:27:46:   errno: 'EADDRINUSE',
+2020-07-29 14:27:46:   syscall: 'listen',
+2020-07-29 14:27:46:   address: '::',
+2020-07-29 14:27:46:   port: 3000
+2020-07-29 14:27:46: }
+2020-07-29 14:27:46: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:27:46:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:27:46:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:27:46:     at Server.listen (net.js:1436:7)
+2020-07-29 14:27:46:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:27:46:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:27:46:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:27:46:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:27:46:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:27:46:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:27:46:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:27:46:   code: 'EADDRINUSE',
+2020-07-29 14:27:46:   errno: 'EADDRINUSE',
+2020-07-29 14:27:46:   syscall: 'listen',
+2020-07-29 14:27:46:   address: '::',
+2020-07-29 14:27:46:   port: 3000
+2020-07-29 14:27:46: }
+2020-07-29 14:27:47: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:27:47:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:27:47:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:27:47:     at Server.listen (net.js:1436:7)
+2020-07-29 14:27:47:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:27:47:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:27:47:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:27:47:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:27:47:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:27:47:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:27:47:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:27:47:   code: 'EADDRINUSE',
+2020-07-29 14:27:47:   errno: 'EADDRINUSE',
+2020-07-29 14:27:47:   syscall: 'listen',
+2020-07-29 14:27:47:   address: '::',
+2020-07-29 14:27:47:   port: 3000
+2020-07-29 14:27:47: }
+2020-07-29 14:27:47: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:27:47:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:27:47:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:27:47:     at Server.listen (net.js:1436:7)
+2020-07-29 14:27:47:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:27:47:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:27:47:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:27:47:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:27:47:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:27:47:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:27:47:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:27:47:   code: 'EADDRINUSE',
+2020-07-29 14:27:47:   errno: 'EADDRINUSE',
+2020-07-29 14:27:47:   syscall: 'listen',
+2020-07-29 14:27:47:   address: '::',
+2020-07-29 14:27:47:   port: 3000
+2020-07-29 14:27:47: }
+2020-07-29 14:27:47: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:27:47:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:27:47:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:27:47:     at Server.listen (net.js:1436:7)
+2020-07-29 14:27:47:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:27:47:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:27:47:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:27:47:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:27:47:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:27:47:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:27:47:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:27:47:   code: 'EADDRINUSE',
+2020-07-29 14:27:47:   errno: 'EADDRINUSE',
+2020-07-29 14:27:47:   syscall: 'listen',
+2020-07-29 14:27:47:   address: '::',
+2020-07-29 14:27:47:   port: 3000
+2020-07-29 14:27:47: }
+2020-07-29 14:27:48: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:27:48:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:27:48:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:27:48:     at Server.listen (net.js:1436:7)
+2020-07-29 14:27:48:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:27:48:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:27:48:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:27:48:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:27:48:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:27:48:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:27:48:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:27:48:   code: 'EADDRINUSE',
+2020-07-29 14:27:48:   errno: 'EADDRINUSE',
+2020-07-29 14:27:48:   syscall: 'listen',
+2020-07-29 14:27:48:   address: '::',
+2020-07-29 14:27:48:   port: 3000
+2020-07-29 14:27:48: }
+2020-07-29 14:27:48: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:27:48:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:27:48:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:27:48:     at Server.listen (net.js:1436:7)
+2020-07-29 14:27:48:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:27:48:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:27:48:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:27:48:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:27:48:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:27:48:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:27:48:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:27:48:   code: 'EADDRINUSE',
+2020-07-29 14:27:48:   errno: 'EADDRINUSE',
+2020-07-29 14:27:48:   syscall: 'listen',
+2020-07-29 14:27:48:   address: '::',
+2020-07-29 14:27:48:   port: 3000
+2020-07-29 14:27:48: }
+2020-07-29 14:27:48: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:27:48:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:27:48:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:27:48:     at Server.listen (net.js:1436:7)
+2020-07-29 14:27:48:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:27:48:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:27:48:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:27:48:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:27:48:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:27:48:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:27:48:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:27:48:   code: 'EADDRINUSE',
+2020-07-29 14:27:48:   errno: 'EADDRINUSE',
+2020-07-29 14:27:48:   syscall: 'listen',
+2020-07-29 14:27:48:   address: '::',
+2020-07-29 14:27:48:   port: 3000
+2020-07-29 14:27:48: }
+2020-07-29 14:27:49: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:27:49:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:27:49:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:27:49:     at Server.listen (net.js:1436:7)
+2020-07-29 14:27:49:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:27:49:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:27:49:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:27:49:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:27:49:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:27:49:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:27:49:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:27:49:   code: 'EADDRINUSE',
+2020-07-29 14:27:49:   errno: 'EADDRINUSE',
+2020-07-29 14:27:49:   syscall: 'listen',
+2020-07-29 14:27:49:   address: '::',
+2020-07-29 14:27:49:   port: 3000
+2020-07-29 14:27:49: }
+2020-07-29 14:27:49: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:27:49:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:27:49:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:27:49:     at Server.listen (net.js:1436:7)
+2020-07-29 14:27:49:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:27:49:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:27:49:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:27:49:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:27:49:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:27:49:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:27:49:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:27:49:   code: 'EADDRINUSE',
+2020-07-29 14:27:49:   errno: 'EADDRINUSE',
+2020-07-29 14:27:49:   syscall: 'listen',
+2020-07-29 14:27:49:   address: '::',
+2020-07-29 14:27:49:   port: 3000
+2020-07-29 14:27:49: }
+2020-07-29 14:27:49: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:27:49:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:27:49:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:27:49:     at Server.listen (net.js:1436:7)
+2020-07-29 14:27:49:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:27:49:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:27:49:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:27:49:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:27:49:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:27:49:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:27:49:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:27:49:   code: 'EADDRINUSE',
+2020-07-29 14:27:49:   errno: 'EADDRINUSE',
+2020-07-29 14:27:49:   syscall: 'listen',
+2020-07-29 14:27:49:   address: '::',
+2020-07-29 14:27:49:   port: 3000
+2020-07-29 14:27:49: }
+2020-07-29 14:27:49: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:27:49:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:27:49:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:27:49:     at Server.listen (net.js:1436:7)
+2020-07-29 14:27:49:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:27:49:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:27:49:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:27:49:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:27:49:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:27:49:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:27:49:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:27:49:   code: 'EADDRINUSE',
+2020-07-29 14:27:49:   errno: 'EADDRINUSE',
+2020-07-29 14:27:49:   syscall: 'listen',
+2020-07-29 14:27:49:   address: '::',
+2020-07-29 14:27:49:   port: 3000
+2020-07-29 14:27:49: }
+2020-07-29 14:28:10: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:10:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:10:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:10:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:10:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:10:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:10:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:10:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:10:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:10:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:10:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:10:   code: 'EADDRINUSE',
+2020-07-29 14:28:10:   errno: 'EADDRINUSE',
+2020-07-29 14:28:10:   syscall: 'listen',
+2020-07-29 14:28:10:   address: '::',
+2020-07-29 14:28:10:   port: 3000
+2020-07-29 14:28:10: }
+2020-07-29 14:28:11: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:11:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:11:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:11:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:11:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:11:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:11:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:11:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:11:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:11:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:11:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:11:   code: 'EADDRINUSE',
+2020-07-29 14:28:11:   errno: 'EADDRINUSE',
+2020-07-29 14:28:11:   syscall: 'listen',
+2020-07-29 14:28:11:   address: '::',
+2020-07-29 14:28:11:   port: 3000
+2020-07-29 14:28:11: }
+2020-07-29 14:28:11: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:11:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:11:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:11:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:11:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:11:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:11:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:11:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:11:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:11:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:11:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:11:   code: 'EADDRINUSE',
+2020-07-29 14:28:11:   errno: 'EADDRINUSE',
+2020-07-29 14:28:11:   syscall: 'listen',
+2020-07-29 14:28:11:   address: '::',
+2020-07-29 14:28:11:   port: 3000
+2020-07-29 14:28:11: }
+2020-07-29 14:28:11: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:11:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:11:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:11:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:11:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:11:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:11:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:11:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:11:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:11:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:11:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:11:   code: 'EADDRINUSE',
+2020-07-29 14:28:11:   errno: 'EADDRINUSE',
+2020-07-29 14:28:11:   syscall: 'listen',
+2020-07-29 14:28:11:   address: '::',
+2020-07-29 14:28:11:   port: 3000
+2020-07-29 14:28:11: }
+2020-07-29 14:28:12: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:12:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:12:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:12:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:12:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:12:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:12:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:12:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:12:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:12:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:12:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:12:   code: 'EADDRINUSE',
+2020-07-29 14:28:12:   errno: 'EADDRINUSE',
+2020-07-29 14:28:12:   syscall: 'listen',
+2020-07-29 14:28:12:   address: '::',
+2020-07-29 14:28:12:   port: 3000
+2020-07-29 14:28:12: }
+2020-07-29 14:28:12: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:12:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:12:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:12:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:12:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:12:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:12:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:12:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:12:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:12:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:12:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:12:   code: 'EADDRINUSE',
+2020-07-29 14:28:12:   errno: 'EADDRINUSE',
+2020-07-29 14:28:12:   syscall: 'listen',
+2020-07-29 14:28:12:   address: '::',
+2020-07-29 14:28:12:   port: 3000
+2020-07-29 14:28:12: }
+2020-07-29 14:28:12: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:12:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:12:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:12:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:12:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:12:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:12:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:12:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:12:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:12:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:12:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:12:   code: 'EADDRINUSE',
+2020-07-29 14:28:12:   errno: 'EADDRINUSE',
+2020-07-29 14:28:12:   syscall: 'listen',
+2020-07-29 14:28:12:   address: '::',
+2020-07-29 14:28:12:   port: 3000
+2020-07-29 14:28:12: }
+2020-07-29 14:28:13: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:13:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:13:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:13:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:13:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:13:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:13:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:13:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:13:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:13:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:13:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:13:   code: 'EADDRINUSE',
+2020-07-29 14:28:13:   errno: 'EADDRINUSE',
+2020-07-29 14:28:13:   syscall: 'listen',
+2020-07-29 14:28:13:   address: '::',
+2020-07-29 14:28:13:   port: 3000
+2020-07-29 14:28:13: }
+2020-07-29 14:28:13: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:13:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:13:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:13:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:13:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:13:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:13:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:13:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:13:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:13:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:13:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:13:   code: 'EADDRINUSE',
+2020-07-29 14:28:13:   errno: 'EADDRINUSE',
+2020-07-29 14:28:13:   syscall: 'listen',
+2020-07-29 14:28:13:   address: '::',
+2020-07-29 14:28:13:   port: 3000
+2020-07-29 14:28:13: }
+2020-07-29 14:28:13: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:13:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:13:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:13:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:13:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:13:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:13:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:13:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:13:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:13:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:13:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:13:   code: 'EADDRINUSE',
+2020-07-29 14:28:13:   errno: 'EADDRINUSE',
+2020-07-29 14:28:13:   syscall: 'listen',
+2020-07-29 14:28:13:   address: '::',
+2020-07-29 14:28:13:   port: 3000
+2020-07-29 14:28:13: }
+2020-07-29 14:28:14: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:14:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:14:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:14:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:14:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:14:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:14:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:14:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:14:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:14:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:14:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:14:   code: 'EADDRINUSE',
+2020-07-29 14:28:14:   errno: 'EADDRINUSE',
+2020-07-29 14:28:14:   syscall: 'listen',
+2020-07-29 14:28:14:   address: '::',
+2020-07-29 14:28:14:   port: 3000
+2020-07-29 14:28:14: }
+2020-07-29 14:28:14: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:14:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:14:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:14:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:14:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:14:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:14:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:14:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:14:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:14:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:14:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:14:   code: 'EADDRINUSE',
+2020-07-29 14:28:14:   errno: 'EADDRINUSE',
+2020-07-29 14:28:14:   syscall: 'listen',
+2020-07-29 14:28:14:   address: '::',
+2020-07-29 14:28:14:   port: 3000
+2020-07-29 14:28:14: }
+2020-07-29 14:28:14: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:14:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:14:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:14:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:14:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:14:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:14:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:14:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:14:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:14:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:14:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:14:   code: 'EADDRINUSE',
+2020-07-29 14:28:14:   errno: 'EADDRINUSE',
+2020-07-29 14:28:14:   syscall: 'listen',
+2020-07-29 14:28:14:   address: '::',
+2020-07-29 14:28:14:   port: 3000
+2020-07-29 14:28:14: }
+2020-07-29 14:28:15: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:15:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:15:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:15:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:15:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:15:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:15:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:15:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:15:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:15:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:15:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:15:   code: 'EADDRINUSE',
+2020-07-29 14:28:15:   errno: 'EADDRINUSE',
+2020-07-29 14:28:15:   syscall: 'listen',
+2020-07-29 14:28:15:   address: '::',
+2020-07-29 14:28:15:   port: 3000
+2020-07-29 14:28:15: }
+2020-07-29 14:28:15: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:15:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:15:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:15:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:15:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:15:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:15:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:15:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:15:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:15:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:15:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:15:   code: 'EADDRINUSE',
+2020-07-29 14:28:15:   errno: 'EADDRINUSE',
+2020-07-29 14:28:15:   syscall: 'listen',
+2020-07-29 14:28:15:   address: '::',
+2020-07-29 14:28:15:   port: 3000
+2020-07-29 14:28:15: }
+2020-07-29 14:28:16: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:16:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:16:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:16:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:16:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:16:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:16:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:16:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:16:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:16:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:16:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:16:   code: 'EADDRINUSE',
+2020-07-29 14:28:16:   errno: 'EADDRINUSE',
+2020-07-29 14:28:16:   syscall: 'listen',
+2020-07-29 14:28:16:   address: '::',
+2020-07-29 14:28:16:   port: 3000
+2020-07-29 14:28:16: }
+2020-07-29 14:28:46: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:46:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:46:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:46:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:46:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:46:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:46:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:46:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:46:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:46:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:46:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:46:   code: 'EADDRINUSE',
+2020-07-29 14:28:46:   errno: 'EADDRINUSE',
+2020-07-29 14:28:46:   syscall: 'listen',
+2020-07-29 14:28:46:   address: '::',
+2020-07-29 14:28:46:   port: 3000
+2020-07-29 14:28:46: }
+2020-07-29 14:28:46: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:46:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:46:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:46:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:46:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:46:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:46:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:46:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:46:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:46:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:46:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:46:   code: 'EADDRINUSE',
+2020-07-29 14:28:46:   errno: 'EADDRINUSE',
+2020-07-29 14:28:46:   syscall: 'listen',
+2020-07-29 14:28:46:   address: '::',
+2020-07-29 14:28:46:   port: 3000
+2020-07-29 14:28:46: }
+2020-07-29 14:28:46: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:46:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:46:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:46:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:46:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:46:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:46:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:46:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:46:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:46:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:46:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:46:   code: 'EADDRINUSE',
+2020-07-29 14:28:46:   errno: 'EADDRINUSE',
+2020-07-29 14:28:46:   syscall: 'listen',
+2020-07-29 14:28:46:   address: '::',
+2020-07-29 14:28:46:   port: 3000
+2020-07-29 14:28:46: }
+2020-07-29 14:28:47: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:47:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:47:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:47:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:47:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:47:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:47:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:47:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:47:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:47:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:47:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:47:   code: 'EADDRINUSE',
+2020-07-29 14:28:47:   errno: 'EADDRINUSE',
+2020-07-29 14:28:47:   syscall: 'listen',
+2020-07-29 14:28:47:   address: '::',
+2020-07-29 14:28:47:   port: 3000
+2020-07-29 14:28:47: }
+2020-07-29 14:28:47: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:47:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:47:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:47:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:47:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:47:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:47:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:47:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:47:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:47:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:47:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:47:   code: 'EADDRINUSE',
+2020-07-29 14:28:47:   errno: 'EADDRINUSE',
+2020-07-29 14:28:47:   syscall: 'listen',
+2020-07-29 14:28:47:   address: '::',
+2020-07-29 14:28:47:   port: 3000
+2020-07-29 14:28:47: }
+2020-07-29 14:28:47: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:47:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:47:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:47:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:47:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:47:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:47:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:47:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:47:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:47:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:47:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:47:   code: 'EADDRINUSE',
+2020-07-29 14:28:47:   errno: 'EADDRINUSE',
+2020-07-29 14:28:47:   syscall: 'listen',
+2020-07-29 14:28:47:   address: '::',
+2020-07-29 14:28:47:   port: 3000
+2020-07-29 14:28:47: }
+2020-07-29 14:28:48: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:48:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:48:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:48:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:48:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:48:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:48:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:48:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:48:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:48:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:48:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:48:   code: 'EADDRINUSE',
+2020-07-29 14:28:48:   errno: 'EADDRINUSE',
+2020-07-29 14:28:48:   syscall: 'listen',
+2020-07-29 14:28:48:   address: '::',
+2020-07-29 14:28:48:   port: 3000
+2020-07-29 14:28:48: }
+2020-07-29 14:28:48: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:48:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:48:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:48:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:48:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:48:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:48:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:48:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:48:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:48:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:48:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:48:   code: 'EADDRINUSE',
+2020-07-29 14:28:48:   errno: 'EADDRINUSE',
+2020-07-29 14:28:48:   syscall: 'listen',
+2020-07-29 14:28:48:   address: '::',
+2020-07-29 14:28:48:   port: 3000
+2020-07-29 14:28:48: }
+2020-07-29 14:28:48: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:48:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:48:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:48:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:48:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:48:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:48:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:48:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:48:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:48:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:48:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:48:   code: 'EADDRINUSE',
+2020-07-29 14:28:48:   errno: 'EADDRINUSE',
+2020-07-29 14:28:48:   syscall: 'listen',
+2020-07-29 14:28:48:   address: '::',
+2020-07-29 14:28:48:   port: 3000
+2020-07-29 14:28:48: }
+2020-07-29 14:28:49: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:49:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:49:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:49:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:49:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:49:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:49:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:49:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:49:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:49:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:49:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:49:   code: 'EADDRINUSE',
+2020-07-29 14:28:49:   errno: 'EADDRINUSE',
+2020-07-29 14:28:49:   syscall: 'listen',
+2020-07-29 14:28:49:   address: '::',
+2020-07-29 14:28:49:   port: 3000
+2020-07-29 14:28:49: }
+2020-07-29 14:28:49: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:49:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:49:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:49:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:49:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:49:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:49:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:49:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:49:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:49:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:49:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:49:   code: 'EADDRINUSE',
+2020-07-29 14:28:49:   errno: 'EADDRINUSE',
+2020-07-29 14:28:49:   syscall: 'listen',
+2020-07-29 14:28:49:   address: '::',
+2020-07-29 14:28:49:   port: 3000
+2020-07-29 14:28:49: }
+2020-07-29 14:28:49: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:49:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:49:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:49:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:49:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:49:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:49:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:49:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:49:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:49:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:49:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:49:   code: 'EADDRINUSE',
+2020-07-29 14:28:49:   errno: 'EADDRINUSE',
+2020-07-29 14:28:49:   syscall: 'listen',
+2020-07-29 14:28:49:   address: '::',
+2020-07-29 14:28:49:   port: 3000
+2020-07-29 14:28:49: }
+2020-07-29 14:28:50: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:50:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:50:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:50:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:50:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:50:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:50:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:50:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:50:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:50:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:50:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:50:   code: 'EADDRINUSE',
+2020-07-29 14:28:50:   errno: 'EADDRINUSE',
+2020-07-29 14:28:50:   syscall: 'listen',
+2020-07-29 14:28:50:   address: '::',
+2020-07-29 14:28:50:   port: 3000
+2020-07-29 14:28:50: }
+2020-07-29 14:28:50: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:50:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:50:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:50:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:50:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:50:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:50:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:50:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:50:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:50:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:50:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:50:   code: 'EADDRINUSE',
+2020-07-29 14:28:50:   errno: 'EADDRINUSE',
+2020-07-29 14:28:50:   syscall: 'listen',
+2020-07-29 14:28:50:   address: '::',
+2020-07-29 14:28:50:   port: 3000
+2020-07-29 14:28:50: }
+2020-07-29 14:28:50: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:50:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:50:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:50:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:50:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:50:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:50:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:50:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:50:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:50:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:50:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:50:   code: 'EADDRINUSE',
+2020-07-29 14:28:50:   errno: 'EADDRINUSE',
+2020-07-29 14:28:50:   syscall: 'listen',
+2020-07-29 14:28:50:   address: '::',
+2020-07-29 14:28:50:   port: 3000
+2020-07-29 14:28:50: }
+2020-07-29 14:28:50: Error: listen EADDRINUSE: address already in use :::3000
+2020-07-29 14:28:50:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:28:50:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:28:50:     at Server.listen (net.js:1436:7)
+2020-07-29 14:28:50:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:28:50:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:28:50:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:28:50:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:28:50:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:28:50:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:28:50:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:28:50:   code: 'EADDRINUSE',
+2020-07-29 14:28:50:   errno: 'EADDRINUSE',
+2020-07-29 14:28:50:   syscall: 'listen',
+2020-07-29 14:28:50:   address: '::',
+2020-07-29 14:28:50:   port: 3000
+2020-07-29 14:28:50: }
+2020-07-29 14:34:01: Error: listen EADDRINUSE: address already in use :::6000
+2020-07-29 14:34:01:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:34:01:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:34:01:     at Server.listen (net.js:1436:7)
+2020-07-29 14:34:01:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:34:01:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:34:01:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:34:01:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:34:01:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:34:01:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:34:01:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:34:01:   code: 'EADDRINUSE',
+2020-07-29 14:34:01:   errno: 'EADDRINUSE',
+2020-07-29 14:34:01:   syscall: 'listen',
+2020-07-29 14:34:01:   address: '::',
+2020-07-29 14:34:01:   port: 6000
+2020-07-29 14:34:01: }
+2020-07-29 14:34:02: Error: listen EADDRINUSE: address already in use :::6000
+2020-07-29 14:34:02:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 14:34:02:     at listenInCluster (net.js:1348:12)
+2020-07-29 14:34:02:     at Server.listen (net.js:1436:7)
+2020-07-29 14:34:02:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 14:34:02:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 14:34:02:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 14:34:02:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 14:34:02:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 14:34:02:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 14:34:02:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 14:34:02:   code: 'EADDRINUSE',
+2020-07-29 14:34:02:   errno: 'EADDRINUSE',
+2020-07-29 14:34:02:   syscall: 'listen',
+2020-07-29 14:34:02:   address: '::',
+2020-07-29 14:34:02:   port: 6000
+2020-07-29 14:34:02: }
+2020-07-29 15:56:07: Error: listen EADDRINUSE: address already in use :::6000
+2020-07-29 15:56:07:     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
+2020-07-29 15:56:07:     at listenInCluster (net.js:1348:12)
+2020-07-29 15:56:07:     at Server.listen (net.js:1436:7)
+2020-07-29 15:56:07:     at Server.listen (E:\张雨\代码联系\node_socket\node_modules\nodejs-websocket\Server.js:119:14)
+2020-07-29 15:56:07:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\app.js:79:8)
+2020-07-29 15:56:07:     at Module._compile (internal/modules/cjs/loader.js:956:30)
+2020-07-29 15:56:07:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+2020-07-29 15:56:07:     at Module.load (internal/modules/cjs/loader.js:812:32)
+2020-07-29 15:56:07:     at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+2020-07-29 15:56:07:     at Object.<anonymous> (E:\张雨\代码联系\node_socket\node_modules\pm2\lib\ProcessContainerFork.js:32:23) {
+2020-07-29 15:56:07:   code: 'EADDRINUSE',
+2020-07-29 15:56:07:   errno: 'EADDRINUSE',
+2020-07-29 15:56:07:   syscall: 'listen',
+2020-07-29 15:56:07:   address: '::',
+2020-07-29 15:56:07:   port: 6000
+2020-07-29 15:56:07: }
