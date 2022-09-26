@@ -26,7 +26,7 @@
   "homepage": "https://github.com/zy1583301/node_socket#readme",
   "dependencies": {
     "nodejs-websocket": "^1.7.2",
-    "pm2": "^4.4.0"
+    "pm2": "^5.2.0"
   },
   "devDependencies": {}
 }
